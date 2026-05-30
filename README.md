@@ -8,9 +8,6 @@ Project Intern @ Oracle | Software Engineer | AI & ML Enthusiast
 Computer Science Engineering (AI & ML) Undergraduate at VNR VJIET
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Khyathi23&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
