@@ -25,30 +25,14 @@ Computer Science Engineering (AI & ML) Undergraduate at VNR VJIET
 
 ## 🌐 Connect With Me
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khyathi-meghana-4b9374256" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
-</a>
-
-<a href="https://github.com/Khyathi23" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
-</a>
-
-<a href="https://www.codechef.com/users/khyathi23" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="codechef" height="30" width="30" />
-</a>
-
-<a href="https://codeforces.com/profile/khyathi23" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="codeforces" height="30" width="30" />
-</a>
-
-<a href="https://leetcode.com/khyathimeghana23/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="leetcode" height="30" width="30" />
-</a>
-
-<a href="https://www.hackerrank.com/khyathimeghana23" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="hackerrank" height="30" width="30" />
-</a>
+<a href="https://codepen.io/khyathi-meghana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="khyathi-meghana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khyathi-meghana-4b9374256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khyathi-meghana-4b9374256" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/khyathi23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khyathi23" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/khyathimeghana23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khyathimeghana23" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/khyathi23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khyathi23" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/khyathimeghana23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khyathimeghana23" height="30" width="40" /></a>
 </p>
 
 ---
